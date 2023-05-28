@@ -1,5 +1,3 @@
-# Roteiro para o desenvolvimento da atividade prática
-
 ## Serviços AWS utilizados
 
 - Amazon Cognito
